@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE (Health Informatics)
+- 🎓 BTech CSE 
 - 🤖 Interested in **AI, Machine Learning, and Full-Stack Development**
 - 💻 Skilled in **React, Python, Node.js, Flask, MongoDB**
 - 🌱 Currently exploring **Generative AI & System Design**
