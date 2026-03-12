@@ -64,20 +64,21 @@
 
 ---
 
-## 🐍 Contribution Heatmap Snake Animation
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github.com/mrunmayeeph/mrunmayeeph/blob/output/github-contribution-grid-snake.svg"/>
+  <a href="https://linkedin.com/in/mrunmayeephadtare">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://portfoliomrunmayee.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mrunmayeeph@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 Portfolio
-
----
-
-⭐ *Always building, always learning.*
